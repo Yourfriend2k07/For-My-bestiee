@@ -1,0 +1,6 @@
+{
+  "name": "Best Friend Apology",
+  "description": "A cute, heartfelt, interactive apology and friendship story for a best friend.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
